@@ -12,5 +12,5 @@ go get github.com/kochie/gc
 The one function that is needed is `GenerateGrayCode`
 
 ```go
-GenerateGrayCode(size int) (graycode []string)
+GenerateGrayCode(size int) (grayCode []string)
 ```
